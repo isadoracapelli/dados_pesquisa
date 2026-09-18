@@ -1,3 +1,14 @@
+"""
+filtrar_conteudo_cna.py
+
+Filtra as publicações da CNA coletadas para o período de 2023–2024
+a partir da análise do conteúdo textual das páginas.
+
+O script acessa as URLs das publicações, extrai e normaliza o texto,
+identifica a ocorrência de palavras-chave relacionadas à União Europeia,
+Mercosul, acordo, meio ambiente e sustentabilidade e registra os
+resultados em um novo arquivo CSV.
+"""
 import pandas as pd
 import requests
 from bs4 import BeautifulSoup
