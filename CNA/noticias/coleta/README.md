@@ -138,4 +138,8 @@ A coleta realizada para o período de 2023–2024 resultou em:
 * nenhuma notícia sem título;
 * nenhuma notícia sem texto.
 
-As notícias coletadas
+As notícias coletadas constituem a base documental utilizada nas etapas posteriores de filtragem e seleção.
+
+5. Observação
+
+Os arquivos .txt contendo o conteúdo integral das notícias não fazem parte do repositório do GitHub. O repositório contém os scripts utilizados na coleta e a documentação do procedimento, enquanto os arquivos coletados permanecem armazenados localmente.
