@@ -1,14 +1,16 @@
 # Dados da Pesquisa
 
-Este repositório reúne as bases de dados e os materiais de sistematização produzidos no âmbito de uma pesquisa de Iniciação Científica sobre a atuação de atores políticos e econômicos na formulação da Política Externa Ambiental Brasileira, a partir do Acordo de Parceria entre o Mercosul e a União Europeia.
+Este repositório reúne as bases de dados e os materiais de sistematização produzidos no âmbito de uma pesquisa de Iniciação Científica sobre o lobby do Agronegócio na Política Externa Ambiental Brasileira no Acordo de Parceria Mercosul-União Europeia, com apoio da Fundação de Amparo à Pesquisa do Estado de São Paulo (FAPESP).
 
 As planilhas disponibilizadas contemplam levantamentos documentais, identificação de posicionamentos e estratégias dos atores investigados, caracterização de atores institucionais e análises comparativas entre os discursos e demandas dos agentes envolvidos e os dispositivos do Pacote de Brasília.
+
+*Para acessar cada planilha, basta clicar no seu título.*
 
 ## 1. Levantamento documental e identificação de posicionamentos
 
 ### 1.1. Presidência da República
 
-- **[Coleta Bolsonaro (2019–2022)](INSERIR_LINK):** reúne 28 documentos, entre notícias, pronunciamentos e outras publicações, identificados a partir dos termos de busca "Bolsonaro", "Acordo Mercosul-UE" e "Meio ambiente", no período de 01/01/2019 a 31/12/2022. A coleta foi realizada na plataforma BASES, do Centro de Pesquisa Política e Social (CPPS) da UNESP, campus de Franca. A planilha apresenta título, data, posicionamentos e estratégias do presidente em relação ao acordo, contexto adicional relevante e link da fonte.
+- **[Coleta Bolsonaro (2019–2022)]([INSERIR_LINK](https://docs.google.com/spreadsheets/d/1tmaOq1p-ytnNlATraghEdh-Dbio2XYs6wUG480E_mlk/edit?usp=sharing)):** reúne 28 documentos, entre notícias, pronunciamentos e outras publicações, identificados a partir dos termos de busca "Bolsonaro", "Acordo Mercosul-UE" e "Meio ambiente", no período de 01/01/2019 a 31/12/2022. A coleta foi realizada na plataforma BASES, do Centro de Pesquisa Política e Social (CPPS) da UNESP, campus de Franca. A planilha apresenta título, data, posicionamentos e estratégias do presidente em relação ao acordo, contexto adicional relevante e link da fonte.
 
 - **[Coleta Lula (2023–2024)](INSERIR_LINK):** reúne 69 documentos, entre notícias, pronunciamentos e outras publicações, identificados a partir dos termos de busca "Lula", "Acordo Mercosul-UE" e "Meio ambiente", no período de 01/01/2023 a 31/12/2024. A coleta foi realizada na plataforma BASES, do CPPS/UNESP-Franca. A planilha apresenta título, data, posicionamentos e estratégias do presidente em relação ao acordo, contexto adicional relevante e link da fonte.
 
